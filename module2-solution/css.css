@@ -1,5 +1,5 @@
 body {
-    background-color : #559911;
+    background-color :#2b2acd;
 }
 * {
   box-sizing: border-box;
@@ -9,29 +9,45 @@ h1 {
     padding:auto;
   margin-bottom: 15px;
   border: 1px solid black;
-  background-color :#ad4568 ;
+  background-color :#ad4c08 ;
   font-family: arial;
   font-size:20;
-  
+  color:white;
 }
 span {
-    background-color: yellow;
+    background-color: white;
     color: gray;
     float:right;
-    padding-bottom :5px;
+    padding:1px;
 }
 p {
-  border: 1px solid black;
-  background-color: #00ddff;
-  width: 80%;
-  height: 150px;
   
   font-family: arial;
   font-size:16px;
   color: white;
+   width: 60%;
+  height: 150px;
+ 
+}
+  
+#box1 {
+    border: 1px solid black;
+  background-color: #00ddff;
+  padding:1px;
+  
   
 }
+#box2 {border: 1px solid black;
+  background-color: #00ddff;
+  padding:1px;
+  
+  }
+  #box3 {
+      border: 1px solid black;
+  background-color: #00ddff;
+  padding:1px;
 
+  }
 .container {
     width :100%;
 }
