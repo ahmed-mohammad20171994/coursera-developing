@@ -1,0 +1,45 @@
+.navbar-brand {
+    width:100%;
+    color:#030100;
+    background-color : #999999;
+
+    
+}
+header h1 {
+    text-align: center;
+}
+ span {
+     text-align: center;
+    color: #030100;
+    
+}
+* {
+	box-sizing: border-box;
+}
+#box1 {
+    margin:2%;
+    padding:1%;
+    background-color : #999999;
+}
+#box2 {
+    margin:2%;
+    padding:1%;
+    background-color : #999999;
+}
+#box3 {
+    margin:2%;
+    padding:1%;
+    background-color : #999999;
+    
+}
+.ss1 {
+   text-align: center; 
+}
+.container {
+
+    width:100%;
+}
+
+
+
+
