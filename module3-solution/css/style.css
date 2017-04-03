@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #a3a3a3;
+  border: solid 2px #000000;
+  border-radius: 0;
+
+}
+
+.navbar-brand h1 {
+  font-family: Georgia, Serif.mm           ;
+  color: #692138;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+h3  {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+
+
+
+#nav-list {
+  margin-top: 10px;
+  background-color: #ffffff;    
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#nav-list a {
+  color: #000000;
+  border-top: 2px solid #000000; 
+}
+
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.sec {
+  background-color: #999999;
+  color: #692138;
+  padding: 2px;
+  margin-bottom: 20px;
+}
+
+.na1 {
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
